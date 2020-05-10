@@ -4,7 +4,7 @@ Created on 05/06/2020
 
 Using data from Glassdoor, this model is intended to predict/estimate CS salaries based on ancillary features.
 
-Search keywords used to collect data: 'data scientist', ...
+Search keywords used to collect data: 'data scientist', 'software developer', 'computer scientist', 'software engineer', 'mobile developer'
 
 
 credit:
